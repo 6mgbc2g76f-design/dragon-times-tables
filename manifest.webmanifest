@@ -1,0 +1,25 @@
+{
+  "name": "Dragon Times Tables Challenge",
+  "short_name": "Dragon Tables",
+  "description": "Practise the 1\u201312 times tables and celebrate each completed table with a dancing dragon.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fc",
+  "theme_color": "#2468df",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
